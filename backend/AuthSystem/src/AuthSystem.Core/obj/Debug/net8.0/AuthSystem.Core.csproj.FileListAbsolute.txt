@@ -1,0 +1,13 @@
+D:\Users\Jhon\Documentos\Mintrabajo\Modulo General usuarios\Auth\backend\AuthSystem\src\AuthSystem.Core\bin\Debug\net8.0\AuthSystem.Core.deps.json
+D:\Users\Jhon\Documentos\Mintrabajo\Modulo General usuarios\Auth\backend\AuthSystem\src\AuthSystem.Core\bin\Debug\net8.0\AuthSystem.Core.dll
+D:\Users\Jhon\Documentos\Mintrabajo\Modulo General usuarios\Auth\backend\AuthSystem\src\AuthSystem.Core\bin\Debug\net8.0\AuthSystem.Core.pdb
+D:\Users\Jhon\Documentos\Mintrabajo\Modulo General usuarios\Auth\backend\AuthSystem\src\AuthSystem.Core\obj\Debug\net8.0\AuthSystem.Core.csproj.AssemblyReference.cache
+D:\Users\Jhon\Documentos\Mintrabajo\Modulo General usuarios\Auth\backend\AuthSystem\src\AuthSystem.Core\obj\Debug\net8.0\AuthSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Jhon\Documentos\Mintrabajo\Modulo General usuarios\Auth\backend\AuthSystem\src\AuthSystem.Core\obj\Debug\net8.0\AuthSystem.Core.AssemblyInfoInputs.cache
+D:\Users\Jhon\Documentos\Mintrabajo\Modulo General usuarios\Auth\backend\AuthSystem\src\AuthSystem.Core\obj\Debug\net8.0\AuthSystem.Core.AssemblyInfo.cs
+D:\Users\Jhon\Documentos\Mintrabajo\Modulo General usuarios\Auth\backend\AuthSystem\src\AuthSystem.Core\obj\Debug\net8.0\AuthSystem.Core.csproj.CoreCompileInputs.cache
+D:\Users\Jhon\Documentos\Mintrabajo\Modulo General usuarios\Auth\backend\AuthSystem\src\AuthSystem.Core\obj\Debug\net8.0\AuthSystem.Core.sourcelink.json
+D:\Users\Jhon\Documentos\Mintrabajo\Modulo General usuarios\Auth\backend\AuthSystem\src\AuthSystem.Core\obj\Debug\net8.0\AuthSystem.Core.dll
+D:\Users\Jhon\Documentos\Mintrabajo\Modulo General usuarios\Auth\backend\AuthSystem\src\AuthSystem.Core\obj\Debug\net8.0\refint\AuthSystem.Core.dll
+D:\Users\Jhon\Documentos\Mintrabajo\Modulo General usuarios\Auth\backend\AuthSystem\src\AuthSystem.Core\obj\Debug\net8.0\AuthSystem.Core.pdb
+D:\Users\Jhon\Documentos\Mintrabajo\Modulo General usuarios\Auth\backend\AuthSystem\src\AuthSystem.Core\obj\Debug\net8.0\ref\AuthSystem.Core.dll

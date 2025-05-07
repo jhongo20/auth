@@ -1,0 +1,16 @@
+D:\Users\Jhon\Documentos\Mintrabajo\Modulo General usuarios\Auth\backend\AuthSystem\src\AuthSystem.Application\obj\Debug\net8.0\AuthSystem.Application.csproj.AssemblyReference.cache
+D:\Users\Jhon\Documentos\Mintrabajo\Modulo General usuarios\Auth\backend\AuthSystem\src\AuthSystem.Application\obj\Debug\net8.0\AuthSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Jhon\Documentos\Mintrabajo\Modulo General usuarios\Auth\backend\AuthSystem\src\AuthSystem.Application\obj\Debug\net8.0\AuthSystem.Application.AssemblyInfoInputs.cache
+D:\Users\Jhon\Documentos\Mintrabajo\Modulo General usuarios\Auth\backend\AuthSystem\src\AuthSystem.Application\obj\Debug\net8.0\AuthSystem.Application.AssemblyInfo.cs
+D:\Users\Jhon\Documentos\Mintrabajo\Modulo General usuarios\Auth\backend\AuthSystem\src\AuthSystem.Application\obj\Debug\net8.0\AuthSystem.Application.csproj.CoreCompileInputs.cache
+D:\Users\Jhon\Documentos\Mintrabajo\Modulo General usuarios\Auth\backend\AuthSystem\src\AuthSystem.Application\obj\Debug\net8.0\AuthSystem.Application.sourcelink.json
+D:\Users\Jhon\Documentos\Mintrabajo\Modulo General usuarios\Auth\backend\AuthSystem\src\AuthSystem.Application\bin\Debug\net8.0\AuthSystem.Application.deps.json
+D:\Users\Jhon\Documentos\Mintrabajo\Modulo General usuarios\Auth\backend\AuthSystem\src\AuthSystem.Application\bin\Debug\net8.0\AuthSystem.Application.dll
+D:\Users\Jhon\Documentos\Mintrabajo\Modulo General usuarios\Auth\backend\AuthSystem\src\AuthSystem.Application\bin\Debug\net8.0\AuthSystem.Application.pdb
+D:\Users\Jhon\Documentos\Mintrabajo\Modulo General usuarios\Auth\backend\AuthSystem\src\AuthSystem.Application\bin\Debug\net8.0\AuthSystem.Core.dll
+D:\Users\Jhon\Documentos\Mintrabajo\Modulo General usuarios\Auth\backend\AuthSystem\src\AuthSystem.Application\bin\Debug\net8.0\AuthSystem.Core.pdb
+D:\Users\Jhon\Documentos\Mintrabajo\Modulo General usuarios\Auth\backend\AuthSystem\src\AuthSystem.Application\obj\Debug\net8.0\AuthSyst.810430FD.Up2Date
+D:\Users\Jhon\Documentos\Mintrabajo\Modulo General usuarios\Auth\backend\AuthSystem\src\AuthSystem.Application\obj\Debug\net8.0\AuthSystem.Application.dll
+D:\Users\Jhon\Documentos\Mintrabajo\Modulo General usuarios\Auth\backend\AuthSystem\src\AuthSystem.Application\obj\Debug\net8.0\refint\AuthSystem.Application.dll
+D:\Users\Jhon\Documentos\Mintrabajo\Modulo General usuarios\Auth\backend\AuthSystem\src\AuthSystem.Application\obj\Debug\net8.0\AuthSystem.Application.pdb
+D:\Users\Jhon\Documentos\Mintrabajo\Modulo General usuarios\Auth\backend\AuthSystem\src\AuthSystem.Application\obj\Debug\net8.0\ref\AuthSystem.Application.dll
