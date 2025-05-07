@@ -1,0 +1,3 @@
+# Ignorar todas las carpetas .vs dentro del proyecto
+.vs/
+**/.vs/
